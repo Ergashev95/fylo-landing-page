@@ -1,0 +1,29 @@
+/* NunitoSans */
+@font-face {
+    font-family: "NunitoSans";
+    src: url(../fonts/Nunito_Sans/static/NunitoSans_10pt-Regular.ttf);
+    font-weight: 400;
+}
+
+/* OpenSans */
+@font-face {
+    font-family: "OpenSans";
+    src: url(../fonts/Open_Sans/static/OpenSans-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OpenSans";
+    src: url(../fonts/Open_Sans/static/OpenSans-Regular.ttf);
+    font-weight: 400;
+}
+/* Raleway */
+@font-face {
+    font-family: "Raleway";
+    src: url(../fonts/Raleway/static/Raleway-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Raleway";
+    src: url(../fonts/Raleway/static/Raleway-Regular.ttf);
+    font-weight: 400;
+}
