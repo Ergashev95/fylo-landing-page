@@ -1,1 +1,41 @@
 @import url(./fonts.css);
+
+:root {
+    --Raleway: "Raleway";
+    --OpenSans: "OpenSans";
+    --NunitoSans: "NunitoSans";
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    font-size: "OpenSans";
+}
+
+/* SITE-HEADER */
+.site-logo {
+    width: 166px;
+    height: 49px;
+}
+.navbar-nav {
+    column-gap: 55px !important;
+}
+.header__nav-link {
+    font-family: var(--Raleway);
+    font-size: 16px;
+    font-weight: 400;
+    color: #07043B;
+}
+/* SITE-HEADER */
