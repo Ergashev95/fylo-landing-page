@@ -38,6 +38,12 @@ body {
     font-weight: 400;
     color: #07043B;
 }
+.navbar-toggler {
+border: 1px solid #07043B;
+}
+.navbar-toggler:focus {
+    box-shadow: 0 0 3px #07043B;
+}
 /* SITE-HEADER */
 
 /* SITE-HERO-INFO */
